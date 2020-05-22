@@ -6,7 +6,7 @@ A front-end boilerplate to quickly start work on new projects.
 [Node.js®](https://nodejs.org/)
 
 ##### Suggested Tools
-[VS Code](https://code.visualstudio.com/)
+[VS Code](https://code.visualstudio.com/)<br>
 [MSYS2](https://www.msys2.org/)
 
 ## Usage
@@ -21,10 +21,10 @@ $ npm install
 $ gulp
 ```
 ##### Add / edit files in *app* directory *(html files in root)*.
-.
-├── app
-│   ├── img
-│   ├── js
+.<br>
+├── app<br>
+│   ├── img<br>
+│   ├── js<br>
 │   ├── scss
 
 ##### Run final build task to complete project.
@@ -32,8 +32,8 @@ $ gulp
 ```sh
 $ gulp build
 ```
->Conversion of SCSS to CSS
->Minification of CSS, JS and HTML
+>Conversion of SCSS to CSS<br>
+>Minification of CSS, JS and HTML<br>
 >Compression of images
 
 ## Contributing
